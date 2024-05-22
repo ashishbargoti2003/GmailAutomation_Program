@@ -63,3 +63,10 @@ from datetime import datetime
 - Activate virtual environment by migrating inside scripts and activating "activate.ps1"
 - Click on run button
 
+
+## Screenshots
+
+![alt text](image-1.png)
+<br>
+![alt text](image-2.png)
+
